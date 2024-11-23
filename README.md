@@ -30,7 +30,7 @@ Para utilizar este proyecto en tu máquina local, sigue estos pasos:
 1. **Clona este repositorio**:
 
     ```bash
-    git clone https://github.com/BalaZaStudio/WebBasicProject.git
+    git clone https://github.com/BalaZaStudio/Example-Web.git
     ```
 
 2. **Abre el archivo HTML en tu navegador**:
